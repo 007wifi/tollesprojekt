@@ -3,4 +3,4 @@
 1. Listpunkt 1
 2. Listpunkt 2
 
-Das ist eine Übungs-Reposority don't panic!
+Das ist ein Übungs-Repository. don't panic!
